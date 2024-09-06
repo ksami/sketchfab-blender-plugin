@@ -1,3 +1,7 @@
+Fork with fix for Blender 4.2 with the switch from Eevee to Eevee Next
+
+---
+
 # Sketchfab Blender Addon
 
 **Directly import and export models from and to Sketchfab in Blender**
