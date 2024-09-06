@@ -1,4 +1,4 @@
-Fork with fix for Blender 4.2 with the switch from Eevee to Eevee Next
+Fork with fix for Blender 4.2 with the switch from Eevee to Eevee Next, download and install as addon from [Releases](https://github.com/ksami/sketchfab-blender-plugin/releases)
 
 ---
 
